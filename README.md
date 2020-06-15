@@ -4,6 +4,6 @@ Project is create with
 
 Each module/sub-project is located under packages/ directory.
 Create new module/sub-project:
- * cd packages
- * mkdir <package-name> && cd <package-name>
+ * cd packages/
+ * mkdir <*package-name*> && cd <*package-name*>
  * yarn init
